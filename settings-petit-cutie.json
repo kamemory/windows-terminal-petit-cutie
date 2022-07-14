@@ -1,0 +1,28 @@
+{
+    "schemes":
+    [
+        {
+            "background": "#FFF8FB",
+            "black": "#000000",
+            "blue": "#28009F",
+            "brightBlack": "#808080",
+            "brightBlue": "#2000F4",
+            "brightCyan": "#9AD2EE",
+            "brightGreen": "#80DF00",
+            "brightPurple": "#FF10E7",
+            "brightRed": "#FF0000",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#DFBF00",
+            "cursorColor": "#989898",
+            "cyan": "#289898",
+            "foreground": "#989898",
+            "green": "#289800",
+            "name": "petit-cuty",
+            "purple": "#9F0098",
+            "red": "#800000",
+            "selectionBackground": "#303030",
+            "white": "#C0C0C0",
+            "yellow": "#988800"
+        }
+    ]
+}
